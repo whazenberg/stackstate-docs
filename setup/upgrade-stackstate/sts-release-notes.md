@@ -30,7 +30,18 @@ Before you upgrade, [check the version specific upgrade instructions](/setup/upg
 **Bug fixes**
 
 - If the OIDC configuration is wrongly configured to obtain a username, the logging will show all fields that can be selected to obtain the username from. STAC-16027
-- Security fixes for CVE-2022-24407. STAC-15939
+- Security fixes for:
+  - CVE-2022-24407
+  - CVE-2022-25236
+  - CVE-2022-25315
+  - CVE-2022-25235
+  - CVE-2022-23990
+  - CVE-2021-43618
+  - CVE-2022-23308
+  - CVE-2021-30560
+  - CVE-2022-0778
+  - CVE-2022-27404 
+  STAC-15939, STAC-15078, STAC-16537, STAC-16083, STAC-16029, STAC-16060
 
 ### v4.5.5
 
