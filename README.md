@@ -1,5 +1,7 @@
 ---
-description: StackState Self-hosted v5.0.x 
+coverY: 0
+layout: landing
+description: StackState Self-hosted v5.0.x
 ---
 
 # Welcome to the StackState Self-hosted product docs!
@@ -16,38 +18,51 @@ StackState Self-hosted can be used to observe an extensive set of technologies t
 
 ➡️ Switch to the [documentation for StackState SaaS](https://docs.stackstate.com/v/stackstate-saas/)
 
-### Using StackState
+<details>
 
-{% page-ref page="getting_started.md" %}
+<summary>StackState user guide</summary>
 
-### Setup and configuration
+* [Concepts](/use/concepts)
+* [StackState UI](/use/stackstate-ui)
+* [Checks and monitors](/use/checks-and-monitors)
+* [Problem analysis](/use/problem-analysis)
+* [Metrics and events](/use/metrics-and-events)
+* [Glossary](/use/glossary.md)
 
-{% page-ref page="setup/install-stackstate/kubernetes_install/" %}
+</details>
 
-{% page-ref page="stackpacks/integrations/" %}
+<details>
 
-### StackState developer
+<summary>Integrations and add-ons</summary>
 
-{% page-ref page="develop/tutorials/" %}
+Expanding box content
 
-## Supported StackState versions
+</details>
 
-The supported versions of StackState are listed below:
+<details>
 
-* **StackState v5.0** - You are currently reading the documentation for StackState version 5.0.
-* **StackState v4.6** - [Switch to the v4.6 docs](https://docs.stackstate.com/v/4.6/).
-* **StackState v4.5** - [Switch to the v4.5 docs](https://docs.stackstate.com/v/4.5/).
+<summary>Set up StackState</summary>
 
-For details on changes in each release and how to upgrade StackState, check the [StackState release notes and upgrade instructions](setup/upgrade-stackstate/).
+* [Install StackState](/setup/install-stackstate)
+* [Upgrade StackState](/setup/upgrade-stackstate)
+* [StackState Agent](/setup/agent)
+* [StackState CLI](/setup/cli)
+* [Data management](/setup/data-management)
 
-To find documentation for previous StackState versions, use the drop-down menu at the top left of this page.
+</details>
 
-## Can't find something?
+<details>
 
-**Search for it!** Use the search bar on the top right.  
-If you believe any documentation is missing, please let us know on the [StackState support site](http://support.stackstate.com/).
+<summary>Configure StackState</summary>
 
-## Troubleshooting and support
+Expanding box content
 
-Any questions? We love to help! Find our support team on the [StackState support site](http://support.stackstate.com/).
+</details>
 
+<details>
+
+<summary>Develop on StackState</summary>
+
+Expanding box content
+
+</details>
