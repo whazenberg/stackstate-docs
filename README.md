@@ -23,6 +23,7 @@ StackState Self-hosted can be used to observe an extensive set of technologies t
 
 <summary>StackState user guide</summary>
 
+* [Getting started](getting_started.md)
 * [Concepts](/use/concepts)
 * [StackState UI](/use/stackstate-ui)
 * [Checks and monitors](/use/checks-and-monitors)
