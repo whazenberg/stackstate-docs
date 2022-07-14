@@ -13,7 +13,7 @@ StackState SaaS can be used to observe cloud technologies, such as Kubernetes an
 
 * [StackState SaaS docs](https://docs.stackstate.com/v/stackstate-saas/)
 
-{% hint style="info" %}
+{% hint style="success" %}
 StackState is SOC 2/3 certified. [Learn more](link.com)
 {% endhint %}
 
