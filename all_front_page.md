@@ -8,21 +8,17 @@ layout: landing
 
 
 ## StackState SaaS
+
 StackState SaaS can be used to observe cloud technologies, such as Kubernetes and AWS services. 
 
 * [StackState SaaS docs](https://docs.stackstate.com/v/stackstate-saas/)
 
-<details>
-
-<summary>StackState is SOC 2/3 certified</summary>
-
-
-Learn more link.
-
-</details>
-
+{% hint style="info" %}
+StackState is SOC 2/3 certified. [Learn more](link.com)
+{% endhint %}
 
 ## StackState self-hosted
+
 StackState Self-hosted can be used to observe an extensive set of technologies that originate either in your own data centers or in the cloud.
 
 * [StackState v5.0 docs](https://docs.stackstate.com/)
