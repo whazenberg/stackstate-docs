@@ -21,6 +21,6 @@ StackState is SOC 2/3 certified. [Learn more](link.com)
 
 StackState Self-hosted can be used to observe an extensive set of technologies that originate either in your own data centers or in the cloud.
 
-* [StackState v5.0 docs](https://docs.stackstate.com/)
+* [StackState v5.0 docs](https://docs.stackstate.com/v/5.0/) 🚀 available now!
 * [StackState v4.6 docs](https://docs.stackstate.com/v/4.6/)
 * [StackState v4.5 docs](https://docs.stackstate.com/v/4.5/)
